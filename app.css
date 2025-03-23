@@ -1,0 +1,17 @@
+h3{
+    background-color:hotpink;
+    font-family: Arial;
+}
+
+h1{
+    background-color:dodgerblue
+}
+
+h5, h4{
+    background-color: aquamarine;
+}
+
+img{
+    width: 500px;
+    height: 400px;
+}
